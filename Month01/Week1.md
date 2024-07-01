@@ -1,4 +1,4 @@
-# Month 1 Week 1 工作报告 24/06/24-24/06/28
+# Month 1 Week 1 工作报告 24/05/30-24/06/05
 
 + 基于 Jenkins 平台，使用 ruyi-mugen 完成对 RevyOS 和 Fedora38 riscv64 测试 ruyi v0.10.0，实现整个测试失败时的自动重测
   [RevyOS 测试结果](https://jenkins.inuyasha.love/job/ruyi-mugen-revyos-riscv64-test/lastSuccessfulBuild/artifact/test-artifacts/)
