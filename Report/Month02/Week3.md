@@ -3,7 +3,7 @@
 ## Done
 
 + openQA 环境搭建，产出 [搭建步骤](https://github.com/delete-cloud/openqa-test/blob/main/openQA-setup.md)
-+ 准备 07/24 技术汇报
++ 准备 07/24 [技术汇报](https://github.com/delete-cloud/plct-working/blob/main/Misc/tech-share.pdf)
 
 ## ToDo
 
