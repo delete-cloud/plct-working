@@ -7,4 +7,4 @@
 
 ## ToDo
 
-+ 尝试解决 lxc nfs 挂载问题，RuyiSDK i18n
++ 尝试解决 lxc nfs 挂载问题，ruyi-mugen i18n
